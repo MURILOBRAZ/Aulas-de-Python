@@ -1,2 +1,2 @@
 # Aulas de Python
- Atividades em Python Realizadas Durante as aulas da Disciplina de 'Lógicas de Programação'
+ Programas em Python criados durante meus estudos na linguagem de programação
